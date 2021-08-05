@@ -1,0 +1,10 @@
+2021-07-24 22:25:39,941 - INFO - joeynmt.prediction - test bleu[13a]:  25.24 [Beam search decoding with beam size = 5 and alpha = 1.0]
+
+2021-07-25 01:02:11,508 - INFO - joeynmt.prediction - test bleu[13a]:  25.34 [Beam search decoding with beam size = 5 and alpha = 1.0]
+
+2021-07-25 03:08:15,478 - INFO - joeynmt.prediction - Decoding on test set (/scratch-small-local/255251.hpc1.hpc/test.bpe.en2)...
+
+2021-07-25 06:06:22,084 - INFO - joeynmt.prediction - test bleu[13a]:  24.93 [Beam search decoding with beam size = 5 and alpha = 1.0]
+
+2021-07-25 08:39:02,118 - INFO - joeynmt.prediction - test bleu[13a]:  25.09 [Beam search decoding with beam size = 5 and alpha = 1.0]
+
